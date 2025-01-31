@@ -1,4 +1,4 @@
-## Pre-generate Ton Wallets
+# ton-wallet-pregenator-web3auth
 
 This script demonstrates how to pre-generate Ton wallets using Web3Auth.
 
@@ -27,4 +27,3 @@ Run the script
 ```bash
 node tonWeb3Auth.js
 ```
-# ton-wallet-pregenator-web3auth
